@@ -1,0 +1,213 @@
+*
+{
+    margin: 0px;
+    padding: 0px;
+}
+.navbar
+{
+    display: flex;
+    justify-content: space-between;
+}
+.listitems
+{
+  display: inline-block;
+  list-style: none; /* non list item */
+  margin: 10px 15px;
+  margin-top: 100px;
+  list-style: none;
+  font-size: 20px;
+  font-family: 'Anton', sans-serif;
+}
+.top
+{
+    margin-top: -780px;
+    margin-left: 930px;
+}
+.links
+{
+    color: black;
+    font-weight: bold;
+    text-decoration: none;
+
+}
+.links:hover
+{
+    color: red
+}
+.p1
+{
+    font-family: 'Lobster', cursive;
+    font-size: 120px;
+    text-align: center;
+    margin-top: 200px;
+    color: rgb(255, 0, 0);
+}
+.p2
+{
+    font-family: 'Lobster', cursive;
+    font-size: larger;
+    text-align: center;
+    color: black;
+    font-size: bold;
+}
+.M
+{
+    margin-top: 240px;
+    margin-left: 650PX;
+    font-family: 'Lobster', cursive;
+    color:rgb(17, 17, 17);
+    display: flex;
+    font-size: 40px;
+    
+}
+.B
+{
+    height: 320px;
+    width: 420px;
+    background-color: rgb(243, 242, 242);
+    float: left;
+    margin: 20px;
+    box-shadow: 12px 12px 2px black;
+    border-radius: 35px;
+    overflow: hidden;
+
+  
+}
+.B img
+{
+
+    transition: scale 400ms;
+}
+.B:hover img
+{
+    scale: 110%;
+}
+
+.i
+{
+    border-radius: 35px;
+}
+.side
+{
+    margin-left: 15px;
+    margin-top: 100px;
+    color: black;
+}
+.under
+{
+    margin-left: 1100px;
+    font-family: 'Lobster', cursive;
+    font-size: 25px;
+}
+.unde
+{
+    margin-left: 650px;
+    font-family: 'Lobster', cursive;
+    font-size: 25px;
+    margin-top: -90px;
+}
+.und
+{
+    margin-left: 200px;
+    font-family: 'Lobster', cursive;
+    font-size: 25px;
+    margin-top: -90px;
+}
+.items
+{
+    height: 250px;
+    width: 220px;
+    background-color: rgb(250, 245, 245);
+    float: left;
+    box-shadow: 12px 12px 2px black;
+    border-radius: 35px;
+    margin-top: 30px;
+    margin-left: 20px;
+    margin: 25px;
+}
+.it
+{
+    border-radius: 35px;
+  
+}
+.its
+{
+    font-family: 'Lobster', cursive; 
+    margin-left: 10px;
+}
+
+.o
+{
+    width: 90px;
+    margin-top: 20px;
+    margin-left: 20px;
+    background-color: green;
+    color: white;
+    border-radius: 12px;
+    
+}
+.ic
+{
+    margin-left: 150px;
+    margin-top: -20px;
+}
+.pp
+{
+   margin-top: -20px;
+   margin-left: 20px;
+}
+#A
+{
+    text-align: center;
+    font-family: 'Lobster', cursive;
+    font-size: 40px;
+
+}
+.ab
+{
+    margin-top: 10px;
+    width: 660px;
+}
+.b
+{
+    margin-left: -450px;
+    width: 28%;
+    margin-bottom: 50px;
+}
+.para
+{
+    font-family: 'Lobster', cursive;
+    font-size: 40px;
+    margin-left: 823px;
+    margin-top: -420px;
+
+}
+.heading
+{
+   text-align: center;
+   margin-top: 130px;
+   font-family: 'Lobster', cursive;
+}
+.heading h2
+{
+   font-size: 30px;
+   font-family: 'Lobster', cursive;
+
+
+}
+.icon-set
+{
+    display: flex;/* side by side */
+    align-items: center;
+    justify-content: center;
+    margin-top: 2%;
+}
+.icon
+{
+    margin: 20px;
+    
+}
+.icon i
+{
+    color: black;
+}
